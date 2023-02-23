@@ -49,3 +49,7 @@
 
 ## :pencil2: blog posts
 
+
+#
+
+![](https://komarev.com/ghpvc/?username=yanna-torres&style=for-the-badge&color=5DC0C7)
