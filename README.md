@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/17/1b/75/171b7573ee117bfb4ab616daf54f8cf5.gif"/>
+<img align="right" height="300" src="https://geekymythology.files.wordpress.com/2019/05/whisper-of-the-heart-shizuku-studying.gif?w=616"/>
 
 <p align="left">
 :round_pushpin: currently based in Fortaleza, Ceará - Brazil
