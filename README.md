@@ -20,6 +20,8 @@
 <br><br>
 :art: passionate about music, art, cooking and a healthy life-balance
 <br><br>
+:art: funfact: i participated in the Huawei ICT Competition 2022-2023, being part of one of the finalist teams in the country.
+<br><br>
 :handshake: open to freelance and new professional oportunities
 <br><br>
 📝 reach me on <b>torres.yanna03@gmail.com</b>
