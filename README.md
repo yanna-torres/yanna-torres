@@ -49,6 +49,8 @@
 
 ## :pencil2: blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Estrutura de dados Deque](https://yanna-torres.medium.com/estrutura-de-dados-deque-139541f551f2?source=rss-abe243254828------2)
+- [LGPD: Saiba seus direitos e como se proteger](https://yanna-torres.medium.com/lgpd-saiba-seus-direitos-e-como-se-proteger-5beda677bfac?source=rss-abe243254828------2)
 <!-- BLOG-POST-LIST:END -->
 
 #
