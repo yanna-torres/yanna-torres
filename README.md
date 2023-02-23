@@ -56,7 +56,7 @@
 
 
 <div align="center">
-<img height="180" src="https://streak-stats.demolab.com?user=yanna-torres&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180" src="https://streak-stats.demolab.com?user=yanna-torres&theme=tokyonight&hide_border=true&mode=weekly"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanna-torres&layout=compact&theme=tokyonight"/>
 </div>
 
