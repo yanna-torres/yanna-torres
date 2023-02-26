@@ -14,7 +14,7 @@
 <br><br>
 :mortar_board: i am currently enrolled in the Digital Systems and Media program at Federal University of Ceará (UFC)
 <br><br>
-:dart: actign as a front-end dev, focusign on user experience in mobile apps and sometimes helpign the UI design team
+:dart: actign as a front-end dev, focusing on user experience in mobile apps and sometimes helpign the UI design team
 <br><br>
 :books: these days, i'm focusing on studying how to implement AI as a tool for teaching
 <br><br>
