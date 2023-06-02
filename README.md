@@ -16,7 +16,7 @@
 <br><br>
 :dart: acting as a front-end dev, focusing on user experience in mobile apps and sometimes helping the UI design team
 <br><br>
-:books: these days, i'm focusing on studying how to implement AI as a tool for teaching
+:books: these days, i'm focusing on studying how to implement AI as a tool for teaching and Natural Language Processing (NLP)
 <br><br>
 :art: passionate about music, art, cooking and a healthy life-balance
 <br><br>
