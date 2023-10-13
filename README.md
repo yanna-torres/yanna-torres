@@ -74,6 +74,12 @@
 ###
 <br>
 
+## :clipboard: notion academic template available!
+
+My academic notion template available [here](https://yanna-torres.notion.site/academia-new-template-c6e67366a41c429f8986bb456e23e9bb?pvs=4). Use it to track all your assignments and goals to keep you on course to graduate :)
+
+You can also use it for manage other areas of yout life, feel free to adapt as you see fit.
+
 ## :pencil2: blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Como eu usei o ChatGPT para fazer um brainstorming de ideias](https://yanna-torres.medium.com/como-eu-usei-o-chatgpt-para-fazer-um-brainstorming-de-ideias-922b17d18758?source=rss-abe243254828------2)
