@@ -66,7 +66,7 @@
 
 
 <div align="center">
-<img height="180" src="https://streak-stats.demolab.com?user=yanna-torres&theme=tokyonight&hide_border=true&mode=weekly"/>
+<img src="https://streak-stats.demolab.com?user=yanna-torres&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
 <img height="180" src="https://github-readme-stats-ten-mocha-73.vercel.app/api/top-langs/?username=yanna-torres&layout=compact&theme=tokyonight"/>
 </div>
 
