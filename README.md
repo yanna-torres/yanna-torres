@@ -92,6 +92,12 @@ You can also use it for manage other areas of your life, feel free to adapt as y
 - [LGPD: Saiba seus direitos e como se proteger](https://yanna-torres.medium.com/lgpd-saiba-seus-direitos-e-como-se-proteger-5beda677bfac?source=rss-abe243254828------2)
 <!-- BLOG-POST-LIST:END -->
 
+## :page_with_curl: where to find my papers
+
+- [Lattes](http://lattes.cnpq.br/4596665817819063)
+- [Google Scholar](https://scholar.google.com/citations?user=Dp7mOtAAAAAJ)
+
 #
+
 
 ![](https://komarev.com/ghpvc/?username=yanna-torres&style=for-the-badge&color=5DC0C7)
