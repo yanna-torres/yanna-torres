@@ -70,7 +70,7 @@
 
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=yanna-torres&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=yanna-torres&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly="GitHub Streak" />
 <img height="180" src="https://github-readme-stats-ten-mocha-73.vercel.app/api/top-langs/?username=yanna-torres&layout=compact&theme=tokyonight"/>
 </div>
 
