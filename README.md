@@ -14,9 +14,11 @@
 <br><br>
 :mortar_board: i am currently enrolled in the Digital Systems and Media program at Federal University of Ceará (UFC)
 <br><br>
-:dart: acting as a front-end dev, focusing on user experience in mobile apps and sometimes helping the UI design team
+:dart: acting as a data scientist at Insight Lab
 <br><br>
 :books: these days, i'm focusing on studying how to implement AI as a tool for teaching and Natural Language Processing (NLP)
+<br><br>
+:computer: expirence in building complete systems in mobile and web
 <br><br>
 :art: passionate about music, art, cooking and a healthy life-balance
 <br><br>
@@ -80,7 +82,7 @@
 
 My academic notion template available [here](https://yanna-torres.notion.site/academia-new-template-c6e67366a41c429f8986bb456e23e9bb?pvs=4). Use it to track all your assignments and goals to keep you on course to graduate :)
 
-You can also use it for manage other areas of yout life, feel free to adapt as you see fit.
+You can also use it for manage other areas of your life, feel free to adapt as you see fit.
 
 ## :pencil2: blog posts
 <!-- BLOG-POST-LIST:START -->
