@@ -78,11 +78,9 @@
 ###
 <br>
 
-## :clipboard: notion academic template available!
+## :clipboard: notion academic template coming soon!
 
-My academic notion template available [here](https://yanna-torres.notion.site/academia-new-template-c6e67366a41c429f8986bb456e23e9bb?pvs=4). Use it to track all your assignments and goals to keep you on course to graduate :)
-
-You can also use it for manage other areas of your life, feel free to adapt as you see fit.
+A new and better version of my academic template coming soon...
 
 ## :pencil2: blog posts
 <!-- BLOG-POST-LIST:START -->
