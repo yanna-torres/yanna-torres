@@ -16,7 +16,7 @@
 <br><br>
 :dart: acting as a data scientist at Insight Lab
 <br><br>
-:books: these days, i'm focusing on studying how to implement AI as a tool for teaching and Natural Language Processing (NLP)
+:books: these days, i'm focusing on studying how to implement AI as a tool for teaching, Natural Language Processing (NLP) and ASR for the biomedical context
 <br><br>
 :computer: expirence in building complete systems in mobile and web
 <br><br>
@@ -78,9 +78,16 @@
 ###
 <br>
 
-## :clipboard: notion academic template coming soon!
+## :clipboard: notion academic!
 
-A new and better version of my academic template coming soon...
+Buy my notion academic template [here](https://yanna-torres.notion.site/Yanna-s-Templates-c067ba4682b44f84b0dacfa30913275b?pvs=74)!
+
+Available in different themes and versions. 
+
+<div style='width: 300px'>
+  <img src='https://github.com/yanna-torres/yanna-torres/assets/102867787/8b1ae14a-b979-4421-9fbc-d0ac7d860ed2'>
+</div>
+
 
 ## :pencil2: blog posts
 <!-- BLOG-POST-LIST:START -->
