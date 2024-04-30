@@ -99,7 +99,7 @@ Available in different themes and versions.
 
 ## :page_with_curl: where to find my papers
 
-- [Lattes](http://lattes.cnpq.br/4596665817819063)
+- <a href="http://lattes.cnpq.br/4596665817819063" target="_blank">Lattes</a>
 - [Google Scholar](https://scholar.google.com/citations?user=Dp7mOtAAAAAJ)
 
 #
