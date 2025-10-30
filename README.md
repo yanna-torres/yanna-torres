@@ -12,15 +12,13 @@
 <p align="left">
 :round_pushpin: currently based in Fortaleza, Ceará - Brazil
 <br><br>
-:mortar_board: i am currently enrolled in the Digital Systems and Media program at Federal University of Ceará (UFC)
+:mortar_board: Master's student in <b>Computer Science</b> at the <b>Federal University of Ceará (UFC)</b>
 <br><br>
-:dart: acting as a data scientist at Insight Lab and web developer at CEnPE
+:trophy: graduated <b>Summa Cum Laude</b> in <b>Digital Systems and Media</b> at UFC, and received the <b>Best Paper Award</b> in the <b>WTAG track</b> (Undergraduate Works Workshop) at the <b>XL Brazilian Symposium on Databases (SBBD)</b> for a paper based on my undergraduate thesis
 <br><br>
-:books: these days, i'm focusing on studying how to implement AI as a tool for teaching, Natural Language Processing (NLP) and ASR for the bioclinical context
+:dart: currently working as a <b>Data Scientist</b> and <b>Researcher</b> at <b>Insight Lab</b>, and as a <b>Front-end Developer</b> at <b>CEnPE</b>  
 <br><br>
-:computer: expirence in building complete systems in mobile and web
-<br><br>
-:art: passionate about music, art, cooking and a healthy life-balance
+:books: focusing my research on <b>Natural Language Processing (NLP)</b> and <b>Automatic Speech Recognition (ASR)</b> applied to the <b>bioclinical context</b>  
 <br><br>
 :sparkles: funfact: i participated in the Huawei ICT Competition 2022-2023, being part of one of the finalist teams in the country.
 <br><br>
