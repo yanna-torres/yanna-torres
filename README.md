@@ -16,7 +16,7 @@
 <br><br>
 :trophy: graduated <b>Summa Cum Laude</b> in <b>Digital Systems and Media</b> at UFC, and received the <b>Best Paper Award</b> in the <b>WTAG track</b> (Undergraduate Works Workshop) at the <b>XL Brazilian Symposium on Databases (SBBD)</b> for a paper based on my undergraduate thesis
 <br><br>
-:dart: currently working as a <b>Data Scientist</b> and <b>Researcher</b> at <b>Insight Lab</b>, and as a <b>Front-end Developer</b> at <b>CEnPE</b>  
+:dart: currently working as a <b>Data Scientist</b> and <b>Researcher</b> at <b>Insight Lab</b> and <b>CRIA</b>, and as a <b>Front-end Developer</b> of educational technologies at <b>FGV DGPE</b>  
 <br><br>
 :books: focusing my research on <b>Natural Language Processing (NLP)</b> and <b>Automatic Speech Recognition (ASR)</b> applied to the <b>bioclinical context</b>  
 <br><br>
